@@ -1,8 +1,8 @@
 Project 1 paths:
 
 Excel work
--Geometric & Binomial Distribution
--Textbook exercises
+- Geometric & Binomial Distribution
+- Textbook exercises
 
 Formula sheet
 
