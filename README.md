@@ -4,10 +4,6 @@ Excel work
 - Geometric & Binomial Distribution
 - Textbook exercises
 
-Formula sheet
-
-Github paper
-
 Pokemon TCG
 - Mulligan (excel), 
 - OpeningHands (excel), 
@@ -17,3 +13,7 @@ Pokemon TCG
 StatsLibrary
 - src files
 - StatsLibrary Report
+
+Formula sheet
+
+Github paper
