@@ -1,23 +1,31 @@
-Project 2 paths:
+## Project 2 Paths:
 
-Formula Sheet
+#### •Formula Sheet
+ 
+#### •PSS1, PSS2, PSS3
+&nbsp; &nbsp; -Large Samples
 
-PSS1, PSS2, PSS3
--Large Samples
--Small Samples
--Src Files
--Report
+&nbsp; &nbsp; -Small Samples
 
-Research Paper
--Dataset
--Report
+&nbsp; &nbsp; -Src Files
 
-StatsLibrary
--Src Files
--Report
+&nbsp; &nbsp; -Report
 
-Stock Simulator
--CSV Files
--Excel Graphs
--Src Files
--Report
+#### •Research Paper
+&nbsp; &nbsp; -Dataset
+
+&nbsp; &nbsp; -Report
+
+#### •StatsLibrary
+&nbsp; &nbsp; -Src Files
+
+&nbsp; &nbsp; -Report
+
+#### •Stock Simulator
+&nbsp; &nbsp; -CSV Files
+
+&nbsp; &nbsp; -Excel Graphs
+
+&nbsp; &nbsp; -Src Files
+
+&nbsp; &nbsp; -Report
