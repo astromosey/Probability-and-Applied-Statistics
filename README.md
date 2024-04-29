@@ -1,20 +1,23 @@
-Project 1 paths:
+Project 2 paths:
 
-Excel work
-- Geometric & Binomial Distribution
-- Textbook exercises
+Formula Sheet
 
-Pokemon TCG
-- src files
-- Mulligan (excel), 
-- OpeningHands (excel), 
-- Project Report
+PSS1, PSS2, PSS3
+-Large Samples
+-Small Samples
+-Src Files
+-Report
 
+Research Paper
+-Dataset
+-Report
 
 StatsLibrary
-- src files
-- StatsLibrary Report
+-Src Files
+-Report
 
-Formula sheet
-
-Github paper
+Stock Simulator
+-CSV Files
+-Excel Graphs
+-Src Files
+-Report
